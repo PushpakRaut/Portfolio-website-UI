@@ -1,7 +1,7 @@
 # Portfolio-Website-using-Sass
 
 ## Live Demo of website:
-https://romantic-mclean-d4c6d7.netlify.app
+https://portfolio-website-ui.netlify.app
 
 ## Connect with me:
 https://www.linkedin.com/in/pushpak-raut-075738170/
