@@ -1,7 +1,5 @@
 # Portfolio-Website-using-Sass
 
-## Live Demo of website:
-https://portfolio-website-ui.netlify.app
 
 ## Connect with me:
 https://www.linkedin.com/in/pushpak-raut-075738170/
